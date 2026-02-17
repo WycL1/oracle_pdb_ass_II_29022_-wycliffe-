@@ -2,11 +2,11 @@
 Creating and interacting with PDBs and using OEM
 
 # Oracle PDB Assignment II
-**Names:** ISHIMWE Wycliffe
-**ID**: 29022
-**Group:** D
-**Course:** Database Development with PL/SQL (INSY 8311)  
-**Assignment Date:** February 9, 2026  
+-**Names:** ISHIMWE Wycliffe
+-**ID**: 29022
+-**Group:** D
+-**Course:** Database Development with PL/SQL (INSY 8311)  
+-**Assignment Date:** February 9, 2026  
 
 ## Oracle Environment
 - Oracle Version: 11.0.0
